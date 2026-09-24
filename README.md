@@ -6,7 +6,7 @@ A clean, responsive personal portfolio website built with pure HTML and CSS. No 
 
 ## 👤 About
 
-This is the personal portfolio of **Nadine Uwitonze**, a Full-Stack Developer and Information Technology student at the **University of Rwanda, College of Science & Technology** (Year 3–4), based in Kigali, Rwanda.
+This is the personal portfolio of **Nadine Uwitonze**, a Full-Stack Developer and Information Technology student at the **University of Rwanda, College of Science & Technology** Year 4, based in Kigali, Rwanda.
 
 ---
 
